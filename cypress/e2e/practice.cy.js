@@ -50,8 +50,4 @@
 //     cy.viewport(1800, 700)
 //     cy.visit('https://docs.cypress.io/guides/overview/why-cypress')
 //     cy.get('div').find('nav').find('ul').find('li').feq(2)
-// });
-
-
-
-//--------GIT
+// })
